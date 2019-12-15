@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css?family=Gupter&display=swap');
+
+/*uncomment this line for debugging*/
+/** {
+	outline: solid 0.25rem;
+}*/
+
+:root {
+	--lightgold: #efe2ba;
+	--gold: #d79992;
+	--red: #f13c20;
+	--blue: #4056a1;
+	--lightblue: #c5cbe3;
+	--offwhite: #F2F0EB;
+
+	--text: #2c3531;
+}
+
+html {
+	height: 100%;
+}
+
+body {
+	overflow-x: hidden;
+	font-family: 'Gupter', serif;
+	color: var(--text);
+	background-color: var(--offwhite);
+	height: 100%;
+}
+
+.narrow {
+	width: 75%;
+	margin: 0 auto;
+}
+
+.intro {
+	padding-top: 2rem;
+	/*margin-top: 2rem;*/
+	background-color: #4056A1;
+}
+
+.intro:before {
+    content:"";
+    background-color:#4056A1;
+    position: absolute;
+    height: 100%;
+    width: 4000px;
+    left: -2000px;
+    z-index: -1;
+}
+
+.timeline {
+	padding-top: 2rem;
+}
+
+.timeline-row {
+	/*display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;*/
+}
+
+.center-timeline-item {
+	/*height: 100%;*/
+}
+
+.vertical {
+	border-left: 6px solid var(--dark);
+	height: 100%;
+	position: absolute;
+	left: 50%;
+	margin-left: -3px;
+	top: 0;
+}
+
+/*.container::after {
+	content: '';
+	position: absolute;
+	width: 25px;
+	height: 25px;
+	right: -17px;
+	background-color: white;
+	border: 4px solid #FF9F55;
+	top: 15px;
+	border-radius: 50%;
+	z-index: 1;
+}*/
