@@ -10,7 +10,7 @@
 	--gold: #fdce4b;
 	--red: #f13c20;
 	--blue: #4056a1;
-	--lightblue: #c5cbe3;
+	--green: #2e8b57;
 	--offwhite: #F2F0EB;
 	--text: #2c3531;
 }
@@ -30,7 +30,7 @@ body {
 
 .background {
 	animation: slide 3s ease-in-out infinite alternate;
-	background-image: linear-gradient(-60deg, var(--red) 50%, var(--lightblue) 50%);
+	background-image: linear-gradient(-60deg, var(--red) 50%, var(--green) 50%);
 	bottom: 0;
 	left: -50%;
 	opacity: 0.5;
