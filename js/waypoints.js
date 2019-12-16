@@ -18,7 +18,7 @@ $(function(){ // a self calling function
                 osElement.addClass('animated').addClass(osAnimationClass); //add animated and the data-animation class to the element.
                 },{
                     triggerOnce: true, //only once this animation should happen
-                    offset: '70%' // animation should happen when the element is 70% below from the top of the browser window
+                    offset: '90%' // animation should happen when the element is 70% below from the top of the browser window
             });
         });
     }

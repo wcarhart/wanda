@@ -71,6 +71,7 @@ body {
 	left: 50%;
 	/*margin-left: -3px;*/
 	top: 0;
+	z-index: -1!important;
 }
 
 .left-timeline-item::after {
@@ -83,7 +84,11 @@ body {
 	/*border: 4px solid #FF9F55;*/
 	top: 1rem;
 	border-radius: 50%;
-	z-index: 1;
+	z-index: 1!important;
+}
+
+.card {
+	/*background-color: var(--lightgold);*/
 }
 
 /* Devices under 1200 (xl) */
