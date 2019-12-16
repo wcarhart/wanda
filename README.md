@@ -1,4 +1,4 @@
-# wanda
+# wanda _(Will and Alexx)_
 WIP website for [Alexx and Will](http://alexxandwill.us).
 
 ### Technologies
