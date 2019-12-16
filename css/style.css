@@ -7,12 +7,11 @@
 
 :root {
 	--lightgold: #efe2ba;
-	--gold: #d79992;
+	--gold: #fdce4b;
 	--red: #f13c20;
 	--blue: #4056a1;
 	--lightblue: #c5cbe3;
 	--offwhite: #F2F0EB;
-
 	--text: #2c3531;
 }
 
@@ -24,8 +23,39 @@ body {
 	overflow-x: hidden;
 	font-family: 'Gupter', serif;
 	color: var(--text);
-	background-color: var(--offwhite);
+	background-color: black;
 	height: 100%;
+	/*min-width: 768px;*/
+}
+
+.background {
+	animation: slide 3s ease-in-out infinite alternate;
+	background-image: linear-gradient(-60deg, var(--red) 50%, var(--lightblue) 50%);
+	bottom: 0;
+	left: -50%;
+	opacity: 0.5;
+	position: fixed;
+	right: -50%;
+	top: 0;
+	z-index: -1;
+}
+
+.background-2 {
+	animation-direction: alternate-reverse;
+	animation-duration: 4s;
+}
+
+.background-3 {
+	animation-duration: 5s;
+}
+
+@keyframes slide {
+  0% {
+    transform:translateX(-25%);
+  }
+  100% {
+    transform:translateX(25%);
+  }
 }
 
 .narrow {
@@ -83,7 +113,7 @@ h6 {
 	width: 1.5rem;
 	height: 1.5rem;
 	right: -5.4rem;
-	background-color: var(--red);
+	background-color: var(--gold);
 	top: 1rem;
 	border-radius: 50%;
 	z-index: 1!important;
