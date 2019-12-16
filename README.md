@@ -1,5 +1,5 @@
 # wanda _(Will and Alexx)_
-Timeline site for [Alexx and Will](https://www.alexxandwill.us).
+Timeline site for [Will and Alexx](https://alexxandwill.us).
 
 ### Technologies
 * HTML5
