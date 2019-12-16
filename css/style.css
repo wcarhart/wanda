@@ -54,6 +54,13 @@ body {
 	padding-top: 2rem;
 }
 
+h4 {
+	font-size: 2rem;
+}
+h6 {
+	font-size: 1.1rem;
+}
+
 .center-timeline-item {
 	/*height: 100%;*/
 }
@@ -88,8 +95,13 @@ body {
 }
 
 .card {
-	/*background-color: var(--lightgold);*/
+	transition: transform .4s ease;
 }
+
+.card:hover {
+	transform: scale(1.2);
+}
+
 
 /* Devices under 1200 (xl) */
 @media(max-width: 1199px) {
@@ -109,5 +121,18 @@ body {
 @media(max-width: 767px) {
 	.left-timeline-item::after {
 		right: -3.1rem;
+	}
+	.narrow {
+		width: 95%;
+	}
+}
+
+/* Devices under 576px (sm) */
+@media(max-width: 575px) {
+	.left-timeline-item::after {
+		right: -3.4rem;
+	}
+	.narrow {
+		width: 100%;
 	}
 }
