@@ -1,5 +1,5 @@
 # wanda _(Will and Alexx)_
-WIP website for [Alexx and Will](http://www.alexxandwill.us).
+Time site for [Alexx and Will](http://www.alexxandwill.us).
 
 ### Technologies
 * HTML5
