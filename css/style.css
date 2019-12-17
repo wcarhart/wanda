@@ -204,16 +204,6 @@ h6 {
 /* Devices under 576px (sm) */
 @media(max-width: 575px) {
 	.small-timeline-item::before {
-		left: -3rem;
-	}
-	.narrow {
-		width: 100%;
-	}
-}
-
-/* Small iPhones 500px */
-@media(max-width: 500px) {
-	.small-timeline-item::before {
 		left: -0.5rem;
 		width: 0;
 		height: 0;
@@ -222,5 +212,8 @@ h6 {
 		border-right:10px solid var(--gold);
 		border-radius: 0;
 		background-color: rgba(0,0,0,0)
+	}
+	.narrow {
+		width: 100%;
 	}
 }
