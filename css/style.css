@@ -25,7 +25,15 @@ body {
 	color: var(--text);
 	background-color: black;
 	height: 100%;
-	/*min-width: 768px;*/
+}
+
+.non-mobile {
+	visibility: visible;
+}
+
+.mobile {
+	visibility: hidden;
+	position: absolute;
 }
 
 .background {
@@ -86,15 +94,15 @@ h6 {
 	font-size: 1.1rem;
 }
 
-.center-timeline-item {
-
-}
-
 .left-timeline-item {
 	padding-bottom: 1rem;
 }
 
 .right-timeline-item {
+	padding-bottom: 1rem;
+}
+
+.small-timeline-item {
 	padding-bottom: 1rem;
 }
 
@@ -113,6 +121,18 @@ h6 {
 	width: 1.5rem;
 	height: 1.5rem;
 	right: -5.4rem;
+	background-color: var(--gold);
+	top: 1rem;
+	border-radius: 50%;
+	z-index: 1!important;
+}
+
+.small-timeline-item::before {
+	content: '';
+	position: absolute;
+	width: 1.5rem;
+	height: 1.5rem;
+	left: -5.4rem;
 	background-color: var(--gold);
 	top: 1rem;
 	border-radius: 50%;
@@ -159,6 +179,12 @@ h6 {
 @media(max-width: 991px) {
 	.left-timeline-item::after {
 		right: -3.8rem;
+	}
+	.non-mobile {
+		visibility: hidden!important;
+	}
+	.mobile {
+		visibility: visible!important;
 	}
 }
 
