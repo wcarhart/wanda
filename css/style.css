@@ -28,11 +28,11 @@ body {
 }
 
 .non-mobile {
-	visibility: visible;
+	display: block;
 }
 
 .mobile {
-	visibility: hidden;
+	display: none;
 	position: absolute;
 }
 
@@ -180,11 +180,14 @@ h6 {
 	.small-timeline-item::before {
 		left: -3.4rem;
 	}
+	.card:hover {
+		transform: scale(1.0);
+	}
 	.non-mobile {
-		visibility: hidden!important;
+		display: none;
 	}
 	.mobile {
-		visibility: visible!important;
+		display: block;
 	}
 }
 
