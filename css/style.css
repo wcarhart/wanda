@@ -177,8 +177,8 @@ h6 {
 
 /* Devices under 992px (lg) */
 @media(max-width: 991px) {
-	.left-timeline-item::after {
-		right: -3.8rem;
+	.small-timeline-item::before {
+		left: -3.45rem;
 	}
 	.non-mobile {
 		visibility: hidden!important;
@@ -190,20 +190,20 @@ h6 {
 
 /* Devices under 768px (md) */
 @media(max-width: 767px) {
-	.left-timeline-item::after {
-		right: -3.1rem;
+	.small-timeline-item::before {
+		left: -3.05rem;
 	}
 	.narrow {
-		width: 95%;
+		width: 90%;
 	}
 }
 
 /* Devices under 576px (sm) */
 @media(max-width: 575px) {
-	.left-timeline-item::after {
-		right: -3.4rem;
+	.small-timeline-item::before {
+		left: -2.8rem;
 	}
 	.narrow {
-		width: 100%;
+		width: 90%;
 	}
 }
