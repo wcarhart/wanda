@@ -83,6 +83,15 @@ body {
 	color: var(--offwhite);
 }
 
+.outro-mobile {
+	padding: 2rem;
+	background-color: var(--blue);
+	color: var(--offwhite);
+	position: absolute;
+	left: 0;
+	right: 0;
+}
+
 .timeline {
 	padding: 2rem 0rem 3.5rem 0rem;
 }
@@ -182,6 +191,9 @@ h6 {
 	}
 	.card:hover {
 		transform: scale(1.0);
+	}
+	.timeline {
+		padding-bottom: 0rem;
 	}
 	.non-mobile {
 		display: none;
