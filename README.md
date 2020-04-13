@@ -2,11 +2,10 @@
 Timeline site for [Will and Alexx](https://alexxandwill.us).
 
 ### Content Generation
-HTML is automagically generated based on the content in `content.md`. This is done via `generate.py`. To regenerate `index.html`, run:
+HTML is automagically generated based on the content in `content.md`. This is done via `generate.py`. To regenerate (and overwrite) `index.html`, run:
 ```bash
 python3 generate.py
 ```
-Which will overwrite `index.html`.
 
 See the header comment in `content.md` for the expected content format.
 
