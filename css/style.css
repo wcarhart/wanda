@@ -41,6 +41,14 @@ body {
 	position: absolute;
 }
 
+.mobile-card {
+	padding-bottom: 1rem;
+}
+
+.mobile-month-card {
+	width: 100%;
+}
+
 .alexx {
 	color: red;
 }
