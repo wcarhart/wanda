@@ -30,6 +30,7 @@ body {
 	background-attachment: fixed;
 	background-repeat: no-repeat;
 	background-size: cover;
+	background-position: center center;
 }
 
 .non-mobile {
@@ -98,10 +99,6 @@ h6 {
 	padding-bottom: 1rem;
 }
 
-.small-timeline-item {
-	padding-bottom: 1rem;
-}
-
 .vertical {
 	border-left: 6px solid var(--text);
 	height: 100%;
@@ -117,18 +114,6 @@ h6 {
 	width: 1.5rem;
 	height: 1.5rem;
 	right: -5.4rem;
-	background-color: var(--red);
-	top: 1rem;
-	border-radius: 50%;
-	z-index: 1!important;
-}
-
-.small-timeline-item::before {
-	content: '';
-	position: absolute;
-	width: 1.5rem;
-	height: 1.5rem;
-	left: -5.4rem;
 	background-color: var(--red);
 	top: 1rem;
 	border-radius: 50%;
@@ -173,9 +158,6 @@ h6 {
 
 /* Devices under 992px (lg) */
 @media(max-width: 991px) {
-	.small-timeline-item::before {
-		left: -3.4rem;
-	}
 	.card:hover {
 		transform: scale(1.0);
 	}
@@ -188,13 +170,13 @@ h6 {
 	.mobile {
 		display: block;
 	}
+	body {
+		background-image: url('../img/background-mobile-edited.png')!important;
+	}
 }
 
 /* Devices under 768px (md) */
 @media(max-width: 767px) {
-	.small-timeline-item::before {
-		left: -3.1rem;
-	}
 	.non-mobile {
 		display: none;
 	}
@@ -204,20 +186,13 @@ h6 {
 	.narrow {
 		width: 90%;
 	}
+	body {
+		background-image: url('../img/background-mobile-edited.png')!important;
+	}
 }
 
 /* Devices under 576px (sm) */
 @media(max-width: 575px) {
-	.small-timeline-item::before {
-		left: -0.5rem;
-		width: 0;
-		height: 0;
-		border-top: 10px solid transparent;
-		border-bottom: 10px solid transparent;
-		border-right:10px solid var(--red);
-		border-radius: 0;
-		background-color: rgba(0,0,0,0)
-	}
 	.non-mobile {
 		display: none;
 	}
@@ -226,5 +201,8 @@ h6 {
 	}
 	.narrow {
 		width: 100%;
+	}
+	body {
+		background-image: url('../img/background-mobile-edited.png')!important;
 	}
 }
