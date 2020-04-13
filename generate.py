@@ -1,12 +1,9 @@
 """
 Generate index.html based on a content file
 """
-# from bs4 import BeautifulSoup
-
 import argparse
 import datetime
 import os
-import sys
 
 # HTML templates
 top = f"""
@@ -124,7 +121,6 @@ def parse_cards(lines):
 	cards = []
 	title = date = location = img = alt = is_month = ''
 	content = []
-	# count = 0
 
 	while True:
 		# check for exit condition
@@ -183,10 +179,6 @@ def parse_cards(lines):
 			cards.append(c)
 			title = date = location = img = alt = is_month = ''
 			content = []
-			# count += 1
-			# if count == 2:
-			# 	print(cards)
-			# 	sys.exit()
 
 	return cards
 
@@ -287,7 +279,6 @@ def main():
 	html = build_html(cards)
 
 	with open(args.output, 'w+') as f:
-		# f.write(BeautifulSoup(html, 'html.parser').prettify())
 		f.write(html)
 
 	print(f'HTML written to {args.output}')
