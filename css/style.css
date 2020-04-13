@@ -187,6 +187,12 @@ h6 {
 	.small-timeline-item::before {
 		left: -3.1rem;
 	}
+	.non-mobile {
+		display: none;
+	}
+	.mobile {
+		display: block;
+	}
 	.narrow {
 		width: 90%;
 	}
@@ -203,6 +209,12 @@ h6 {
 		border-right:10px solid var(--red);
 		border-radius: 0;
 		background-color: rgba(0,0,0,0)
+	}
+	.non-mobile {
+		display: none;
+	}
+	.mobile {
+		display: block;
 	}
 	.narrow {
 		width: 100%;
