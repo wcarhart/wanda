@@ -283,7 +283,7 @@ is_month: false
 
 # ================ April 2020 ================ #
 
-title:    April 🌺
+title:    April 🌷
 date:     
 location: 
 img:      
