@@ -23,8 +23,9 @@ body {
 	overflow-x: hidden;
 	font-family: 'Gupter', serif;
 	color: var(--text);
-	/*background-color: black;*/
 	height: 100%;
+	/* edit background image here: https://www.befunky.com/create/photo-effects/ */
+	/* edit videos/gifs here: https://app.clipchamp.com/editor */
 	background-image: url('../img/background-edited.png')!important;
 	background-attachment: fixed;
 	background-repeat: no-repeat;
