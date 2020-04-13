@@ -155,7 +155,7 @@ location: Valparaiso Hill, Menlo Park, CA
 img:      img/confession-of-love-pt-i.jpg
 alt:      Will and Alexx atop Valparaiso Hill
 content:  Will had known from almost the beginning that he loved Alexx, but wanted to wait until the perfect moment to tell her. On a misty morning in Menlo Park, he drove his lovely lady up to Valparaiso Hill, where the two embraced under a beautiful rainbow in the foggy skyline. Will looked Alexx in the eyes and told her <i>I'm all in</i>, paused, and then <i>I love you, Alexx</i>.
-content:  <i>Picture moments before love confession.</i>
+content:  <i>Picture taken moments before love confession.</i>
 is_month: false
 
 title:    Ice Skating
