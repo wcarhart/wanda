@@ -424,7 +424,7 @@ date:     August 14th, 2020
 location: Beartooth Mountains, MO
 img:      img/2020/bear-witness-to-the-beautiful-beartooths.jpeg
 alt:      Will and Alexx atop a ridge in the wilderness
-content:  Alexx and Will hopped on a small prop-plane to Bozeman, Montana to visit Alexx's sister and her boyfriend. They all took a week long backpacking trip in the Beartooth Mountains on the border of Montana and Wyoming. On the last night the group trekked up to the peak of a nearby ridge to bask in the beauty of the Shoshone National Forest. With the sun resting on the edge of the world the couple sat as just another feature in the landscape, enjoying wisping wind and fading into a peaceful memory admist the chaos of the current events in the world.
+content:  Alexx and Will hopped on a small prop-plane to Bozeman, Montana to visit Alexx's sister, Abby, and her boyfriend, Colby. They all took a week long backpacking trip in the Beartooth Mountains on the border of Montana and Wyoming. On the last night the group trekked up to the peak of a nearby ridge to bask in the beauty of the Shoshone National Forest. With the sun resting on the edge of the world the couple sat as just another feature in the landscape, enjoying wisping wind and fading into a peaceful memory admist the chaos of the current events in the world.
 is_month: false
 
 title:    How to Transport a Jungle
