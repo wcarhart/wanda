@@ -51,7 +51,7 @@ top = f"""
 				<h1>Hi there!</h1>
 				<p class="lead">Welcome to <code>wanda</code>!</p>
 				<p class="lead">In December 2019, I wanted to give my girlfriend more than just a standard Christmas card. Being the strapping young software engineer I was, I decided to make her a virtual Christmas card that would capture the memories from our relationship so far. The result was alexxandwill.us, dubbed the codename <code>wanda</code>, short for <i>Will and Alexx</i>, to keep the project under wraps until it was ready.</p>
-				<p class="lead">What started as a Christmas card with a few dates has blossomed into a fun, interactive way for me and Alexx to look document our adventures. I can't wait to keep adding to the memories.</p>
+				<p class="lead">What started as a Christmas card with a few dates has blossomed into a fun, interactive way for me and Alexx to document our adventures. I can't wait to keep adding to the memories.</p>
 				<p class="lead">Love you, Alexx.</p>
 				<p class="lead">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Will</p>
 				<div class="mobile-credits">

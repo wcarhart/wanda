@@ -427,7 +427,7 @@ alt:      Will and Alexx atop a ridge in the wilderness
 content:  Alexx and Will hopped on a small prop-plane to Bozeman, Montana to visit Alexx's sister and her boyfriend. They all took a week long backpacking trip in the Beartooth Mountains on the border of Montana and Wyoming. On the last night the group trekked up to the peak of a nearby ridge to bask in the beauty of the Shoshone National Forest. With the sun resting on the edge of the world the couple sat as just another feature in the landscape, enjoying wisping wind and fading into a peaceful memory admist the chaos of the current events in the world.
 is_month: false
 
-title:    How to Move a Jungle
+title:    How to Transport a Jungle
 date:     August 26th, 2020
 location: Lake Oswego, OR
 img:      img/2020/how-to-move-a-jungle.jpeg
@@ -450,7 +450,7 @@ date:     September 6th, 2020
 location: Migration Brewing Rooftop Bar, Portland, OR
 img:      img/2020/rooftop-boozin.jpeg
 alt:      Will and Alexx atop a rooftop bar in Portland
-content:  In a brazen attempt to escape the doldrums of quarantine, Alexx and Will drove into Portland and shared a few drinks atop a rooftop bar downtown. It was refreshing to escape to a simpler past without face coverings and constant Purell. The drinks were calming, but each other's company was more so.
+content:  In a brazen attempt to escape the doldrums of quarantine, and to celebrate the one-year anniversary of when they first met, Alexx and Will drove into Portland and shared a few drinks atop a rooftop bar downtown. It was refreshing to escape to a simpler past without face coverings and constant Purell. The drinks were calming, but each other's company was more so.
 is_month: false
 
 title:    One Year Later ❤️
