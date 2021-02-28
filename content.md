@@ -424,7 +424,7 @@ date:     August 14th, 2020
 location: Beartooth Mountains, MO
 img:      img/2020/bear-witness-to-the-beautiful-beartooths.jpeg
 alt:      Will and Alexx atop a ridge in the wilderness
-content:  Alexx and Will hopped on a small prop-plane to Bozeman, Montana to visit Alexx's sister and her boyfriend. They all took a week long backpacking trip in the Beartooth Mountains on the border of Montana and Wyoming. On the last night the group trekked up to the peak of a nearby ridge to bask in the beauty of the Shoshone National Forest. With the sun resting on the horizon the couple sat as just another feature in the landscape, enjoying wisping wind and fading into a peaceful memory admist the chaos of the current events in the world.
+content:  Alexx and Will hopped on a small prop-plane to Bozeman, Montana to visit Alexx's sister and her boyfriend. They all took a week long backpacking trip in the Beartooth Mountains on the border of Montana and Wyoming. On the last night the group trekked up to the peak of a nearby ridge to bask in the beauty of the Shoshone National Forest. With the sun resting on the edge of the world the couple sat as just another feature in the landscape, enjoying wisping wind and fading into a peaceful memory admist the chaos of the current events in the world.
 is_month: false
 
 title:    How to Move a Jungle
@@ -432,7 +432,7 @@ date:     August 26th, 2020
 location: Lake Oswego, OR
 img:      img/2020/how-to-move-a-jungle.jpeg
 alt:      Loki vibing in a forest of houseplants
-content:  Upon returning to civilization, Will and Alexx quickly learned of a dangerous situation back home. The 2020 California wildfires had encroached within 5 miles of Will's apartment. Amidst flurry of phone calls and flight reservations Will and Alexx raced down to Los Gatos to load much of Will's apartment into a rental car. Within 48 hours the couple was back in Lake Oswego, accompanied by over 100 of Will's houseplants. Alexx's apartment had been transformed into a tropical frenzy of monsteras and alocasia, much to Loki's chagrin.
+content:  Upon returning to civilization, Will and Alexx quickly learned of a dangerous situation developing back home. The 2020 California wildfires had encroached within 5 miles of Will's apartment. Amidst a flurry of phone calls and flight reservations Will and Alexx raced down to Los Gatos to load much of Will's apartment into a rental car. Within 48 hours the couple was back in Lake Oswego, accompanied by over 100 of Will's houseplants. Alexx's apartment had been transformed into a tropical frenzy of monsteras and alocasia, much to Loki's chagrin.
 is_month: false
 
 # ================ September 2020 ================ #
