@@ -61,7 +61,7 @@ top = f"""
 						<a href="https://www.linkedin.com/in/willcarhart/" target="_blank" class="socket"><i class="fab fa-linkedin" data-fa-transform="down-3 right-1.9 grow-6"></i></a>
 					</div>
 					<div class="row text-center justify-content-center">
-						<p class="lead">&copy;&nbsp; Will Carhart & Alexx O'Boyle 2020</p>
+						<p class="lead">&copy;&nbsp; Will Carhart & Alexx O'Boyle <script>document.write(new Date().getFullYear())</script></p>
 					</div>
 				</div>
 			</div>
@@ -97,7 +97,7 @@ bottom = f"""
 	<div class="os-animation container-fluid outro non-mobile" data-animation="fadeInUp">
 		<div class="container">
 			<div class="narrow text-center">
-				<p class="lead">&copy;&nbsp; Will Carhart & Alexx O'Boyle 2020</p>
+				<p class="lead">&copy;&nbsp; Will Carhart & Alexx O'Boyle <script>document.write(new Date().getFullYear())</script></p>
 				<a href="https://github.com/wcarhart" target="_blank" class="socket"><i class="fab fa-github" data-fa-transform="grow-8 down-1"></i></a>
 				<a href="https://www.willcarh.art" target="_blank" class="socket"><img id="logo" src="img/willcarhartportfolio.png" alt="willcarh.art logo"></a>
 				<a href="https://www.linkedin.com/in/willcarhart/" target="_blank" class="socket"><i class="fab fa-linkedin" data-fa-transform="down-3 right-1.9 grow-6"></i></a>
