@@ -49,7 +49,11 @@ top = f"""
 		<div class="container">
 			<div class="narrow">
 				<h1>Hi there!</h1>
-				<p class="lead">Welcome to our timeline! I made this website to celebrate my wonderful girlfriend, Alexx, and how much fun we've had so far in 2019 (and now in 2020!). I can't wait to keep adding to this timeline with her in the future.</p>
+				<p class="lead">Welcome to <code>wanda</code>!</p>
+				<p class="lead">In December 2019, I wanted to give my girlfriend more than just a standard Christmas card. Being the strapping young software engineer I was, I decided to make her a virtual Christmas card that would capture the memories from our relationship so far. The result was alexxandwill.us, dubbed the codename <code>wanda</code>, short for <i>Will and Alexx</i>, to keep the project under wraps until it was ready.</p>
+				<p class="lead">What started as a Christmas card with a few dates has blossomed into a fun, interactive way for me and Alexx to document our adventures. I can't wait to keep adding to the memories.</p>
+				<p class="lead">Love you, Alexx.</p>
+				<p class="lead">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Will</p>
 				<div class="mobile-credits">
 					<div class="row text-center justify-content-center">
 						<a href="https://github.com/wcarhart" target="_blank" class="socket"><i class="fab fa-github" data-fa-transform="grow-8 down-1"></i></a>
@@ -57,7 +61,7 @@ top = f"""
 						<a href="https://www.linkedin.com/in/willcarhart/" target="_blank" class="socket"><i class="fab fa-linkedin" data-fa-transform="down-3 right-1.9 grow-6"></i></a>
 					</div>
 					<div class="row text-center justify-content-center">
-						<p class="lead">&copy;&nbsp; Will Carhart & Alexx O'Boyle 2020</p>
+						<p class="lead">&copy;&nbsp; Will Carhart & Alexx O'Boyle <script>document.write(new Date().getFullYear())</script></p>
 					</div>
 				</div>
 			</div>
@@ -93,7 +97,7 @@ bottom = f"""
 	<div class="os-animation container-fluid outro non-mobile" data-animation="fadeInUp">
 		<div class="container">
 			<div class="narrow text-center">
-				<p class="lead">&copy;&nbsp; Will Carhart & Alexx O'Boyle 2020</p>
+				<p class="lead">&copy;&nbsp; Will Carhart & Alexx O'Boyle <script>document.write(new Date().getFullYear())</script></p>
 				<a href="https://github.com/wcarhart" target="_blank" class="socket"><i class="fab fa-github" data-fa-transform="grow-8 down-1"></i></a>
 				<a href="https://www.willcarh.art" target="_blank" class="socket"><img id="logo" src="img/willcarhartportfolio.png" alt="willcarh.art logo"></a>
 				<a href="https://www.linkedin.com/in/willcarhart/" target="_blank" class="socket"><i class="fab fa-linkedin" data-fa-transform="down-3 right-1.9 grow-6"></i></a>
