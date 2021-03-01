@@ -515,12 +515,20 @@ alt:
 content:  
 is_month: true
 
-title:    Ready for Christmas
+title:    Ready for the Holidays
 date:     December 19th, 2020
 location: Lake Oswego, OR
-img:      img/2020/ready-for-christmas.jpeg
+img:      img/2020/ready-for-the-holidays.jpeg
 alt:      Loki chomping down on Alexx's hand as he impatiently awaits Christmas
 content:  Christmas during a global pandemic was hard for all of us, but none more than Loki, who was anxious to open his presents. He often would decide to chomp on nearby hands in anticipation.
+is_month: false
+
+title:    A Socially Distanced Christmas
+date:     December 25th, 2020
+location: Various Locations
+img:      img/2020/a-socially-distanced-christmas.jpg
+alt:      screenshot of the family FaceTiming from multiple states
+content:  With COVID-19 in full effect and airports becoming overrun with travelers, the family decided to have a socially distanced Christmas this year. Will was in La Jolla, CA; Alexx was in Lake Oswego, OR; Abby was in Bozeman, MT; Colby was in Villingen-Schwenningen, Germany; Meg and Cody were in Elk Grove, CA; and Emma was in San Ramon, CA.
 is_month: false
 
 title:    New Year's Eve
@@ -576,7 +584,7 @@ is_month: false
 title:    The Vax Queen
 date:     January 24th, 2021
 location: Portland, OR
-img:      img/2021/the-vax-queen.jpg
+img:      img/2021/the-vax-queen.jpeg
 alt:      Alexx at her station for distributing the COVID-19 vaccine
 content:  In case Alexx wasn't already impressive enough, she began volunteering to distribute the COVID-19 vaccine to folks in Portland. Sometimes administering over 100 vaccines a day, Alexx worked nonstop for weeks without a day off to ensure the safety of her community. She is a local hero!
 is_month: false
